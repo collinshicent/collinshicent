@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @collinshicent. I am a visiting professor @ Department of Mechanical Engineering, University of Alberta Canada and ALX software engineering student cohort 19 
+- 👋 Hi, I’m Dr. Chike Kwasi-Effah, a visiting professor @ Department of Mechanical Engineering, University of Alberta Canada and ALX software engineering student cohort 19 
 - 👀 I’m interested in Webdevelopment, Apps, Scientific computing, Artificial Intelligence, Quantum computating and Modelling
 - 🌱 I’m currently learning advanced software engineering skills
 - 💞️ I’m looking to collaborate on web development, Apps, Scientific computations, Artificial Intelligence, Quantum computations and Modelling
